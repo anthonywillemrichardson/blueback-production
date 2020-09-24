@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Blueback: Install Facebook Pixel',
+    'name': 'Blueback: Facebook Pixel Integration',
     'summary': 'Integrating facebook pixel on the website',
     'sequence': 100,
     'license': 'OEEL-1',

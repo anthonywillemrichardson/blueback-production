@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <template id="pixel_inherit_blueback" name="Website Google Tag Manager" inherit_id="website.layout">
+    <template id="website_layout_inherit_facebook_pixel_blueback" name="Website Layout with Facebook Pixel" inherit_id="website.layout">
         <xpath expr="//head/meta[last()]" position="after">
             <t t-if="website.pixel_code">
                 <script type="text/javascript">
